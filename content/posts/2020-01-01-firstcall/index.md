@@ -1,8 +1,8 @@
 ---
-title: My first post using Novela by Narative
-author: Dennis Brotzky
+title: FirstCall | Emergency Response Revolutionized
+author: Stanley Lee
 date: 2019-04-30
-hero: ./images/hero.jpg
+hero: ./images/hero.png
 excerpt: With the growing community interest in Gatsby, we hope to create more resources that make it easier for anyone to grasp the power of this incredible tool.
 ---
 

@@ -1,21 +1,17 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
+    title: `Stanley Lee`,
+    name: `Stanley Lee`,
+    siteUrl: `https://leestanley.me/`,
     description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `Welcome to my website! Im a current student at UCSD interested in product and coding.`,
       maxWidth: 652,
     },
     social: [
       {
-        name: `twitter`,
-        url: `https://twitter.com/narative`,
-      },
-      {
         name: `github`,
-        url: `https://github.com/narative`,
+        url: `https://github.com/leestanley`,
       },
       {
         name: `instagram`,
@@ -38,7 +34,7 @@ module.exports = {
         contentPosts: "content/posts",
         contentAuthors: "content/authors",
         basePath: "/",
-        authorsPage: true,
+        authorsPage: false,
         sources: {
           local: true,
           // contentful: true,
