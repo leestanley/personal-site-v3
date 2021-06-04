@@ -20,6 +20,8 @@ In the past year over 240 million 911 calls occurred in the United States alone.
 
 We had a full week to work on FirstCall, so we wanted to operate similar to a professional tech company in order to create the highest quality project possible. Our team conducted daily stand-up meetings and did extensive planning. Our planning efforts can be seen in this [linked design doc](https://docs.google.com/document/d/18WF4zKyjAWL22-rYXKdr3AHuponK26pcgtRyF5EvT0o/edit).
 
+My role in this project was to spearhead the low-fidelity and high-fidelity designs so that I could quickly pass it over for developers to code. After finishing user research and visual design, I stepped into coding critical components such as the landing page and real-time form. 
+
 ![Gantt Chart](images/GZUBg6W.png "Gantt Chart for a Week-long Hackathon")
 
 # Primary and Secondary Research
@@ -32,7 +34,11 @@ Our research showed that there are needs from the caller side as well. A 2018 st
 
 To add onto our prior research, we decided to conduct our own research at the beginning of hackathon. We created a survey of relevant research questions which we then distributed widely across our network. Our survey yielded a total of 28 responses across a diverse range of past 911 callers.
 
-![User Surveys](images/P7XCkxF.png "User Surveys")
+
+
+![](images/Group 1641.png)
+
+![](images/Group 1640.png)
 
 ### Insights
 
@@ -40,7 +46,9 @@ To add onto our prior research, we decided to conduct our own research at the be
 * Most phones have internet capability and cameras but do not have heart rate or fingerprint scanners.
 * Users requested being able to give 911 allergy and blood information in case EMT uses medication.
 
-![User Personas](images/odl2vs0.jpg "User Personas")
+Since our app had two sides, we crafted personas along two fronts: the responders and the callers. Responders were people who would dispatch first responders in a hurry while callers would call 911 and request for help immediately. 
+
+![User Personas](images/Frame 1630.png "User Personas")
 
 # Visual Designs
 
