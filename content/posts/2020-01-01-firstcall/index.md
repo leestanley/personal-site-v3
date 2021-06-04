@@ -36,9 +36,9 @@ To add onto our prior research, we decided to conduct our own research at the be
 
 
 
-![](images/Group 1641.png)
+![](https://i.imgur.com/s6K0PGS.png)
 
-![](images/Group 1640.png)
+![](https://i.imgur.com/ADglkOO.png)
 
 ### Insights
 
@@ -48,7 +48,7 @@ To add onto our prior research, we decided to conduct our own research at the be
 
 Since our app had two sides, we crafted personas along two fronts: the responders and the callers. Responders were people who would dispatch first responders in a hurry while callers would call 911 and request for help immediately. 
 
-![User Personas](images/Frame 1630.png "User Personas")
+![User Personas](https://i.imgur.com/vDBAJOQ.png)
 
 # Visual Designs
 
